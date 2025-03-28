@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(228, 226, 226);
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    background-image: url('./image/logo.jpg'); /* location of image used */
+}
+  
+ul {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    list-style-type: square;
+
+}
+h1{
+    color: navy;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+p {
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+    line-height: 1;
+}
